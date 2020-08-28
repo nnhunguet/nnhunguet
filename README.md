@@ -1,16 +1,13 @@
-### nnhungjs 👋
+### Hi fellows 👋
 
-<!--
-**nnhunguet/nnhunguet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about every thing I learned
+- 📫 How to reach me: [Facebook]
+- ⚡ Fun fact: I share... a lot!
 
-Here are some ideas to get you started:
+[![nnhunguet's github stats](https://github-readme-stats.vercel.app/api?username=nnhunguet)](https://github.com/nnhunguet/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnhunguet&layout=compact)](https://github.com/nnhunguet/github-readme-stats)
+
+
+
+[Facebook]: https://www.facebook.com/nnhunguet
