@@ -13,6 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnhunguet&layout=compact)](https://github.com/nnhunguet/github-readme-stats)
 
-
+### Copyright
+> 'Copyright (c) J2TEAM/NNL[https://github.com/J2TeamNNL].'
 
 [Facebook]: https://www.facebook.com/nnhunguet
