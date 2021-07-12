@@ -1,8 +1,8 @@
-### Hi fellows 👋
+### Hi everyone 👋
 
 - 💬 Ask me about every thing I learned
 - 📫 How to reach me: [Facebook]
-- ⚡ Fun fact: I share... a lot!
+- ⚡ Fun fact: I love... code !
 
 ### Development Stats
 <!--START_SECTION:waka-->
