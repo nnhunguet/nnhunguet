@@ -6,11 +6,8 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-[![nnhunguet's github stats](https://github-readme-stats.vercel.app/api?username=nnhunguet)](https://github.com/nnhunguet/github-readme-stats)
+[![nnhunguet's github stats](https://github-readme-stats.vercel.app/api?username=markgotit)](https://github.com/markgotit/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnhunguet&layout=compact)](https://github.com/nnhunguet/github-readme-stats)
-
-### Copyright
-> 'Copyright (c) J2TEAM/NNL[https://github.com/J2TeamNNL].'
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markgotit&layout=compact)](https://github.com/markgotit/github-readme-stats)
 
 [Facebook]: https://www.facebook.com/nnhunguet
